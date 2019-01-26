@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.android.tools.layoutlib</groupId>
+  <artifactId>layoutlib-api</artifactId>
+  <versioning>
+    <release>01.01-NBANDROID</release>
+    <versions>
+      <version>01.01-NBANDROID</version>
+    </versions>
+    <lastUpdated>20190126120410</lastUpdated>
+  </versioning>
+</metadata>
